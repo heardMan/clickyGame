@@ -7,14 +7,14 @@ import Footer from './components/footer';
 //import { BrowserRouter as Router, Route } from "react-router-dom";
 
 class App extends Component {
+  
   render() {
     return (
      
         <div className="App">
           <Navbar />
           <MainContent />
-          <Footer />
-          
+          <Footer />     
         </div>
       
     );

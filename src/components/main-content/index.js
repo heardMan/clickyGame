@@ -2,9 +2,10 @@ import React, {Component} from 'react';
 import Game from '../game';
 
 class MainContent extends Component {
+    
     render(){
         return(
-            <div class="container-fluid">
+            <div className="container-fluid mt-5">
                 <Game />
             </div>
         );
