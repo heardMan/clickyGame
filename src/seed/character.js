@@ -4,6 +4,7 @@ const characters = {
             id: 1,
             name: "Rick",
             img: "/img/rick.png"
+           
         },
         {
             id: 2,
@@ -44,6 +45,7 @@ const characters = {
             id: 9,
             name: "Squanchy",
             img: "/img/Squanchy_.png"
+            
         },
         {
             id: 10,
