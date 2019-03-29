@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './style.css';
 
+
 class CharacterCards extends Component {
     render() {
         return (
