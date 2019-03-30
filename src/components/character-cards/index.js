@@ -13,7 +13,7 @@ class CharacterCards extends Component {
                                     <div key={element.id} name={element.id} className="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
                                         <div className="card charcard rounded-0 border-0 hover p-2" onClick={this.props.characterSelect.bind(this, element.id)}>
                                             <div className="card-img-top">
-                                                <img className="img-fluid maxH" src={element.img} alt="" />
+                                                <img className="img-fluid maxH" src={`${process.env.PUBLIC_URL}/img/${element.img}`} alt="" />
                                             </div>
                                             <div className="card-title">
                                                 {element.name}

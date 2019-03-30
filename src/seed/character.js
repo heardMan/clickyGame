@@ -3,64 +3,64 @@ const characters = {
         {
             id: 1,
             name: "Rick",
-            img: "/img/rick.png"
+            img: "rick.png"
            
         },
         {
             id: 2,
             name: "Morty",
-            img: "/img/morty.jpg"
+            img: "morty.jpg"
         },
         {
             id: 3,
             name: "Evil Morty",
-            img: "/img/evilMorty.png"
+            img: "evilMorty.png"
         },
         {
             id: 4,
             name: "Bird Person",
-            img: "/img/Birdperson.png"
+            img: "Birdperson.png"
         },
         {
             id: 5,
             name: "Beth",
-            img: "/img/Beth_Smith.png"
+            img: "Beth_Smith.png"
         },
         {
             id: 6,
             name: "Summer",
-            img: "/img/Summer.jpg"
+            img: "Summer.jpg"
         },
         {
             id: 7,
             name: "Mr. Poopybutthole",
-            img: "/img/Mr_poopy_butthole.png"
+            img: "Mr_poopy_butthole.png"
         },
         {
             id: 8,
             name: "Ants in my eyes Johnson",
-            img: "/img/Ants_in_my_eyes_johnson.png"
+            img: "Ants_in_my_eyes_johnson.png"
         },
         {
             id: 9,
             name: "Squanchy",
-            img: "/img/Squanchy_.png"
+            img: "Squanchy_.png"
             
         },
         {
             id: 10,
             name: "Reverse Giraffe",
-            img: "/img/Reverse_Giraffe_Entire_Body.png"
+            img: "Reverse_Giraffe_Entire_Body.png"
         },
         {
             id: 11,
             name: "prince Nebulon",
-            img: "/img/PrinceNebulon.png"
+            img: "PrinceNebulon.png"
         },
         {
             id: 12,
             name: "Taddy Mason",
-            img: "/img/TaddyHQ.png"
+            img: "TaddyHQ.png"
         }
     ]
 }

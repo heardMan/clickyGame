@@ -19,14 +19,14 @@ class Welcome extends Component {
                                     <p>Welcome to Clicky Game Cllick an image to start the game!</p>
                                 </div>
                             </div>
-                            <div className="row">
+                            {/* <div className="row">
                                 <div className="col-12">
                                     <Scoreboard 
                                         score={this.props.score}
                                         topScore={this.props.topScore}
                                     />
                                 </div>
-                            </div>
+                            </div> */}
 
                         </div>
                     </div>
